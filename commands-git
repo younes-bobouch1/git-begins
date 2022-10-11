@@ -1,0 +1,7 @@
+To clone repo :
+git clone "SSH or HTTPS link"
+
+3 push commands :
+---dry-run(-n)
+--tags
+--force
